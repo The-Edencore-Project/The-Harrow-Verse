@@ -1,0 +1,16 @@
+/02_Characters/
+    01_Jeff.md
+    02_Jean.md
+    03_Sarah.md
+    04_Tommy.md
+    05_Buster.md
+    06_Callum.md
+    07_Elliot.md
+    08_MartinParker.md
+    09_DeniseParker.md
+    10_Astra.md
+    11_JeanSister.md
+    12_JeffParent.md
+    13_Edenshell.md
+    14_K9Maximus.md
+    15_CallumGirlfriendArchetype.md
