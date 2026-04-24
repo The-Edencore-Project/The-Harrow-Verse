@@ -1,0 +1,1 @@
+# But what about the internet, or Google, apple or Microsoft spheres? In terms of complexity?
