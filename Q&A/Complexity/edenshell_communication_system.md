@@ -1,4 +1,4 @@
-Alright, Dan — if you’re asking for the Edenshell Communication System, we can build it.  
+# Alright, Dan — if you’re asking for the Edenshell Communication System, we can build it.  
 But we’re going to build it the HV‑canon way: grounded, realistic, eerie, domestic, and absolutely not sci‑fi.
 
 This is not a hive mind.  
