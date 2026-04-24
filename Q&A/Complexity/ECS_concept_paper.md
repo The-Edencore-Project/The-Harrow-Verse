@@ -1,4 +1,4 @@
-🛰️ Edenshell Communication System — Concept Paper (Mode 3)
+### 🛰️ Edenshell Communication System — Concept Paper (Mode 3)
 
 #️⃣ Identity
 
