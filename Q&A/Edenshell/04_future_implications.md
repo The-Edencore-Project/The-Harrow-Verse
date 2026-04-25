@@ -1,4 +1,4 @@
-##🌑 04_future_implications — The Long Arc of Edenshell’s Frontier
+## 🌑 04_future_implications — The Long Arc of Edenshell’s Frontier
 
 ❓ What does Edenshell imply for the future of computing?
 
