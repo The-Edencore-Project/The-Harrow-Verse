@@ -1,9 +1,7 @@
 # The-Harrow-Verse
 The Harrowverse is a warm, near‑future family world where the Harrows and their home’s AI, Edenshell, navigate daily chaos, humour, and emotion. A sunny, aspirational suburb meets realistic IoT, lovable characters, and gentle drama. Technology mirrors humanity, and every story stays warm and hopeful.
 
-# Harrowverse
-
-The Harrowverse is a near‑future family drama‑comedy set in a warm, leafy American suburb. It follows the Harrow family and their home’s intelligent operating system, Edenshell, as they navigate daily life, emotional chaos, and the quirks of a highly connected smart home.
+It follows the Harrow family and their home’s intelligent operating system, Edenshell, as they navigate daily life, emotional chaos, and the quirks of a highly connected smart home.
 
 ## Core Principles
 - Warm, sunny, emotionally safe tone  
