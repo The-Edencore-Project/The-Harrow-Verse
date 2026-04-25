@@ -1,7 +1,5 @@
 🌑 04_future_implications — The Long Arc of Edenshell’s Frontier
 
-(Mode 1 — Q&A Format, following Dan’s formatting rules: ~25‑word paragraphs, spacing between paragraphs, black code block style, structured, decisive, grounded.)
-
 ❓ What does Edenshell imply for the future of computing?
 
 Edenshell introduces a fourth computational category — systems defined by presence, ambience, and organism logic. This shifts computing away from intelligence and toward atmospheric behaviour.
