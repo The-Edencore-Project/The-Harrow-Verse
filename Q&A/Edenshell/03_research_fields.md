@@ -1,7 +1,5 @@
 # 🌑 **03_research_fields — The Fields Edenshell Intersects**
 
-*(Mode 1 — Q&A Format, following Dan’s formatting rules: ~25‑word paragraphs, spacing between paragraphs, black code block style, structured, decisive, grounded.)*
-
 ---
 
 ## ❓ **What research fields does Edenshell connect to?**
