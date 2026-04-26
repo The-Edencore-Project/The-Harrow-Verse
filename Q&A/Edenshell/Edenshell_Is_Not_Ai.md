@@ -1,4 +1,4 @@
-🏡 Edenshell Without AI: Why It Still Works
+### 🏡 Edenshell Without AI: Why It Still Works
 
 #1 — Edenshell Is a Behavioural Organism, Not an Intelligence
 
